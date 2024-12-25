@@ -1,0 +1,53 @@
+﻿@model Furniture_LebedevaS.Domain.ViewModels.Products.ListOfProductsViewModel
+
+@{
+    Layout = "_Layout";
+    ViewData["Title"] = "Список мебели";
+}
+
+<div class="container-list-products">
+
+
+    <div class="link-page">
+        <a href="/Home/SiteInformation">Главная</a> >@Model.CategoryName
+
+    </div>
+   
+
+    <div class="container-products">
+        <div class="list-products">
+            @if (Model.Products.Count > 0)
+            {
+                @foreach (var item in Model.Products)
+                {
+                    <div class="product-item">
+                        <div class="item-stars">
+                            @for (int i = 0; i < @item.Star; i++)
+                            {
+                                <img src="/images/star.png" class="star" />
+                            }
+                        </div>
+                        <img src="@item.PathImg" class="item-product-img" />
+                        <div class="item-info">
+                            <h2>@item.Name</h2>
+                            <table>
+                                <tbody>
+                                    <tr>
+                                        <td>@item.Price</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                            <p class="item-description">@item.Description</p>
+                            <button class="add-to-cart">Добавить в корзину</button>
+                        </div>
+                    </div>
+                }
+            }
+            @if (Model.Products.Count == 0)
+            {
+                <h2>Товаров данной категории нет</h2>
+            }
+           
+        </div>
+    </div>
+</div>

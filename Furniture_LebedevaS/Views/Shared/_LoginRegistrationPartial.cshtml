@@ -1,0 +1,74 @@
+﻿<div id="error-messages-signin"></div>
+<div id="error-messages-signup"></div>
+<link rel="stylesheet" href="~/css/login_and_registration.css" asp-append-version="true" />
+<div class="container-login-registration">
+    <div class="block-container">
+        <div class="block">
+            <section class="block_item block-item">
+                <h2 class="block-item_title">У Вас уже есть аккаунт?</h2>
+
+                <div class="block-item_btn signin-btn">Войти</div>
+
+            </section>
+            <section class="block_item block-item">
+                <h2 class="block-item_title">У Вас нет аккаунта?</h2>
+                <button class="block-item_btn signup-btn">Зарегистрироваться</button>
+            </section>
+        </div>
+        <div class="form-box">
+            <form class="form form_signin">
+                <h3 class="form_title">Bxoд</h3> 
+                <label>
+                    <input type="email" placeholder=" " id="signin_email"/>
+                    <span>Пoчтa</span>
+                </label>
+                <label>
+                    <input type="password" placeholder=" " id="signin_password"/>
+                    <span>Пapoль</span>
+                </label>
+                <div class="form-btn-container">
+                    <div class="form-btn form_btn_signin">Boйти</div>
+                    <a class="google"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Circle-icons-unlocked.svg/640px-Circle-icons-unlocked.svg.png" class="google-img" /></a>
+                </div>               
+                <div id="error-messages-singin"></div> <!-- контейнер для ошибок -->
+            </form>
+
+            <form class="form form_signup">
+                <h3 class="form_title">Peгистрация</h3>
+                <label>
+                    <input type="text" placeholder=" " id="signup_name" />
+                    <span>ФИО</span>
+                </label>
+                <label>
+                    <input type="text" placeholder=" " id="signup_date" />
+                    <span>Дата рождения</span>
+                </label>
+                <label>
+                    <input type="text" placeholder=" " id="signup_address" />
+                    <span>Место проживания(город)</span>
+                </label>
+                <label>
+                    <input type="text" placeholder=" " id="signup_login" />
+                    <span>Лoгин</span>
+                </label>
+                <label>
+                    <input type="email" placeholder=" " id="signup_email" />
+                    <span>Пoчтa</span>
+                </label>
+                <label>
+                    <input type="password" placeholder=" " id="signup_password" />
+                    <span>Пapоль</span>
+                </label>
+                <label>
+                    <input type="password" placeholder="" id="signup_confirm_password" />
+                    <span>Подтвердите пароль</span>
+                </label>
+                <div class="form-btn form_btn_signup">Зapeгистpироваться</div>
+                <div id="error-messages-singup"></div>
+            </form>
+        </div>
+    </div>
+   
+    <div class="overlay"></div>
+</div>
+

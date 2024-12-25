@@ -1,0 +1,283 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Furniture_LebedevaS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9692022A-6975-49D6-BE1E-1C93A70B35FE}|Furniture_LebedevaS.csproj|c:\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\furniture_lebedevas\\wwwroot\\css\\shared.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9692022A-6975-49D6-BE1E-1C93A70B35FE}|Furniture_LebedevaS.csproj|solutionrelative:wwwroot\\css\\shared.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9692022A-6975-49D6-BE1E-1C93A70B35FE}|Furniture_LebedevaS.csproj|c:\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\furniture_lebedevas\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9692022A-6975-49D6-BE1E-1C93A70B35FE}|Furniture_LebedevaS.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9692022A-6975-49D6-BE1E-1C93A70B35FE}|Furniture_LebedevaS.csproj|c:\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\furniture_lebedevas\\wwwroot\\js\\search_script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9692022A-6975-49D6-BE1E-1C93A70B35FE}|Furniture_LebedevaS.csproj|solutionrelative:wwwroot\\js\\search_script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9692022A-6975-49D6-BE1E-1C93A70B35FE}|Furniture_LebedevaS.csproj|c:\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\furniture_lebedevas\\views\\product\\listofproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9692022A-6975-49D6-BE1E-1C93A70B35FE}|Furniture_LebedevaS.csproj|solutionrelative:views\\product\\listofproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C32C3EB1-75E9-4137-A286-E9DE15987DDF}|..\\Furniture_LebedevaS.DAL\\Furniture_LebedevaS.DAL.csproj|c:\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\furniture_lebedevas.dal\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3D83EC0-4649-4596-8AB1-66D74CCC02DE}|..\\Furniture_LebedevaS.Domain\\Furniture_LebedevaS.Domain.csproj|c:\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\furniture_lebedevas.domain\\enum\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3D83EC0-4649-4596-8AB1-66D74CCC02DE}|..\\Furniture_LebedevaS.Domain\\Furniture_LebedevaS.Domain.csproj|c:\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\furniture_lebedevas.domain\\response\\baseresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3D83EC0-4649-4596-8AB1-66D74CCC02DE}|..\\Furniture_LebedevaS.Domain\\Furniture_LebedevaS.Domain.csproj|c:\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\furniture_lebedevas.domain\\viewmodels\\products\\listofproductsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3D83EC0-4649-4596-8AB1-66D74CCC02DE}|..\\Furniture_LebedevaS.Domain\\Furniture_LebedevaS.Domain.csproj|c:\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\furniture_lebedevas.domain\\viewmodels\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3D83EC0-4649-4596-8AB1-66D74CCC02DE}|..\\Furniture_LebedevaS.Domain\\Furniture_LebedevaS.Domain.csproj|c:\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\furniture_lebedevas.domain\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFE09E03-E6F5-45D4-89F5-4447FF267D33}|..\\Furniture_LebedevaS.Service\\Furniture_LebedevaS.Service.csproj|c:\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\furniture_lebedevas.service\\loginandregistration\\confirmemailviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFE09E03-E6F5-45D4-89F5-4447FF267D33}|..\\Furniture_LebedevaS.Service\\Furniture_LebedevaS.Service.csproj|c:\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\furniture_lebedevas.service\\realizations\\productservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9692022A-6975-49D6-BE1E-1C93A70B35FE}|Furniture_LebedevaS.csproj|c:\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\furniture_lebedevas\\wwwroot\\js\\login_and_registration_script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9692022A-6975-49D6-BE1E-1C93A70B35FE}|Furniture_LebedevaS.csproj|solutionrelative:wwwroot\\js\\login_and_registration_script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9692022A-6975-49D6-BE1E-1C93A70B35FE}|Furniture_LebedevaS.csproj|c:\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\furniture_lebedevas\\wwwroot\\js\\shared_script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9692022A-6975-49D6-BE1E-1C93A70B35FE}|Furniture_LebedevaS.csproj|solutionrelative:wwwroot\\js\\shared_script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9692022A-6975-49D6-BE1E-1C93A70B35FE}|Furniture_LebedevaS.csproj|c:\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\furniture_lebedevas\\wwwroot\\css\\login_and_registration.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9692022A-6975-49D6-BE1E-1C93A70B35FE}|Furniture_LebedevaS.csproj|solutionrelative:wwwroot\\css\\login_and_registration.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3D83EC0-4649-4596-8AB1-66D74CCC02DE}|..\\Furniture_LebedevaS.Domain\\Furniture_LebedevaS.Domain.csproj|c:\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\furniture_lebedevas.domain\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3D83EC0-4649-4596-8AB1-66D74CCC02DE}|..\\Furniture_LebedevaS.Domain\\Furniture_LebedevaS.Domain.csproj|c:\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\furniture_lebedevas.domain\\modelsdb\\productdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Furniture_LebedevaS\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Furniture_LebedevaS\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAEYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-21T13:04:49.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "shared.css",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Furniture_LebedevaS\\wwwroot\\css\\shared.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\shared.css",
+              "ToolTip": "C:\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Furniture_LebedevaS\\wwwroot\\css\\shared.css",
+              "RelativeToolTip": "wwwroot\\css\\shared.css",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAtwGAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-22T17:47:42.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ListOfProducts.cshtml",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Furniture_LebedevaS\\Views\\Product\\ListOfProducts.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\ListOfProducts.cshtml",
+              "ToolTip": "C:\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Furniture_LebedevaS\\Views\\Product\\ListOfProducts.cshtml",
+              "RelativeToolTip": "Views\\Product\\ListOfProducts.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T20:10:44.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Search_script.js",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Furniture_LebedevaS\\wwwroot\\js\\Search_script.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\Search_script.js",
+              "ToolTip": "C:\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Furniture_LebedevaS\\wwwroot\\js\\Search_script.js",
+              "RelativeToolTip": "wwwroot\\js\\Search_script.js",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-24T19:57:17.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Furniture_LebedevaS.DAL\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "..\\Furniture_LebedevaS.DAL\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Furniture_LebedevaS.DAL\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "..\\Furniture_LebedevaS.DAL\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T20:08:43.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Furniture_LebedevaS.Domain\\Enum\\Role.cs",
+              "RelativeDocumentMoniker": "..\\Furniture_LebedevaS.Domain\\Enum\\Role.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Furniture_LebedevaS.Domain\\Enum\\Role.cs",
+              "RelativeToolTip": "..\\Furniture_LebedevaS.Domain\\Enum\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T20:08:39.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BaseResponse.cs",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Furniture_LebedevaS.Domain\\Response\\BaseResponse.cs",
+              "RelativeDocumentMoniker": "..\\Furniture_LebedevaS.Domain\\Response\\BaseResponse.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Furniture_LebedevaS.Domain\\Response\\BaseResponse.cs",
+              "RelativeToolTip": "..\\Furniture_LebedevaS.Domain\\Response\\BaseResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T20:08:32.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ListOfProductsViewModel.cs",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Furniture_LebedevaS.Domain\\ViewModels\\Products\\ListOfProductsViewModel.cs",
+              "RelativeDocumentMoniker": "..\\Furniture_LebedevaS.Domain\\ViewModels\\Products\\ListOfProductsViewModel.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Furniture_LebedevaS.Domain\\ViewModels\\Products\\ListOfProductsViewModel.cs",
+              "RelativeToolTip": "..\\Furniture_LebedevaS.Domain\\ViewModels\\Products\\ListOfProductsViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T20:08:28.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductViewModel.cs",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Furniture_LebedevaS.Domain\\ViewModels\\ProductViewModel.cs",
+              "RelativeDocumentMoniker": "..\\Furniture_LebedevaS.Domain\\ViewModels\\ProductViewModel.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Furniture_LebedevaS.Domain\\ViewModels\\ProductViewModel.cs",
+              "RelativeToolTip": "..\\Furniture_LebedevaS.Domain\\ViewModels\\ProductViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T20:08:25.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Furniture_LebedevaS.Domain\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "..\\Furniture_LebedevaS.Domain\\RegisterViewModel.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Furniture_LebedevaS.Domain\\RegisterViewModel.cs",
+              "RelativeToolTip": "..\\Furniture_LebedevaS.Domain\\RegisterViewModel.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T20:08:22.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ConfirmEmailViewModel.cs",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Furniture_LebedevaS.Service\\LoginAndRegistration\\ConfirmEmailViewModel.cs",
+              "RelativeDocumentMoniker": "..\\Furniture_LebedevaS.Service\\LoginAndRegistration\\ConfirmEmailViewModel.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Furniture_LebedevaS.Service\\LoginAndRegistration\\ConfirmEmailViewModel.cs",
+              "RelativeToolTip": "..\\Furniture_LebedevaS.Service\\LoginAndRegistration\\ConfirmEmailViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T20:08:15.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductServices.cs",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Furniture_LebedevaS.Service\\Realizations\\ProductServices.cs",
+              "RelativeDocumentMoniker": "..\\Furniture_LebedevaS.Service\\Realizations\\ProductServices.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Furniture_LebedevaS.Service\\Realizations\\ProductServices.cs",
+              "RelativeToolTip": "..\\Furniture_LebedevaS.Service\\Realizations\\ProductServices.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAiwEwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T20:05:49.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "login_and_registration_script.js",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Furniture_LebedevaS\\wwwroot\\js\\login_and_registration_script.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\login_and_registration_script.js",
+              "ToolTip": "C:\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Furniture_LebedevaS\\wwwroot\\js\\login_and_registration_script.js",
+              "RelativeToolTip": "wwwroot\\js\\login_and_registration_script.js",
+              "ViewState": "AgIAABABAAAAAAAAAAAIwBsBAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-21T15:31:33.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "shared_script.js",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Furniture_LebedevaS\\wwwroot\\js\\shared_script.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\shared_script.js",
+              "ToolTip": "C:\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Furniture_LebedevaS\\wwwroot\\js\\shared_script.js",
+              "RelativeToolTip": "wwwroot\\js\\shared_script.js",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-22T14:18:23.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProductDb.cs",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Furniture_LebedevaS.Domain\\ModelsDb\\ProductDb.cs",
+              "RelativeDocumentMoniker": "..\\Furniture_LebedevaS.Domain\\ModelsDb\\ProductDb.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Furniture_LebedevaS.Domain\\ModelsDb\\ProductDb.cs",
+              "RelativeToolTip": "..\\Furniture_LebedevaS.Domain\\ModelsDb\\ProductDb.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAqwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T14:13:32.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "login_and_registration.css",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Furniture_LebedevaS\\wwwroot\\css\\login_and_registration.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\login_and_registration.css",
+              "ToolTip": "C:\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Furniture_LebedevaS\\wwwroot\\css\\login_and_registration.css",
+              "RelativeToolTip": "wwwroot\\css\\login_and_registration.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAPsBAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-21T15:37:02.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Furniture_LebedevaS.Domain\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "..\\Furniture_LebedevaS.Domain\\Models\\Product.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Furniture_LebedevaS.Domain\\Models\\Product.cs",
+              "RelativeToolTip": "..\\Furniture_LebedevaS.Domain\\Models\\Product.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T15:26:25.112Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

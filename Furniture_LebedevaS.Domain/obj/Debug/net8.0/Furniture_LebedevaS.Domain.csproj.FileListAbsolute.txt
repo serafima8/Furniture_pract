@@ -1,0 +1,12 @@
+C:\Учебная практика\Furniture_LebedevaS.Domain\bin\Debug\net8.0\Furniture_LebedevaS.Domain.deps.json
+C:\Учебная практика\Furniture_LebedevaS.Domain\bin\Debug\net8.0\Furniture_LebedevaS.Domain.dll
+C:\Учебная практика\Furniture_LebedevaS.Domain\bin\Debug\net8.0\Furniture_LebedevaS.Domain.pdb
+C:\Учебная практика\Furniture_LebedevaS.Domain\obj\Debug\net8.0\Furniture_LebedevaS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Учебная практика\Furniture_LebedevaS.Domain\obj\Debug\net8.0\Furniture_LebedevaS.Domain.AssemblyInfoInputs.cache
+C:\Учебная практика\Furniture_LebedevaS.Domain\obj\Debug\net8.0\Furniture_LebedevaS.Domain.AssemblyInfo.cs
+C:\Учебная практика\Furniture_LebedevaS.Domain\obj\Debug\net8.0\Furniture_LebedevaS.Domain.csproj.CoreCompileInputs.cache
+C:\Учебная практика\Furniture_LebedevaS.Domain\obj\Debug\net8.0\Furniture_LebedevaS.Domain.dll
+C:\Учебная практика\Furniture_LebedevaS.Domain\obj\Debug\net8.0\refint\Furniture_LebedevaS.Domain.dll
+C:\Учебная практика\Furniture_LebedevaS.Domain\obj\Debug\net8.0\Furniture_LebedevaS.Domain.pdb
+C:\Учебная практика\Furniture_LebedevaS.Domain\obj\Debug\net8.0\ref\Furniture_LebedevaS.Domain.dll
+C:\Учебная практика\Furniture_LebedevaS.Domain\obj\Debug\net8.0\Furniture_LebedevaS.Domain.csproj.AssemblyReference.cache

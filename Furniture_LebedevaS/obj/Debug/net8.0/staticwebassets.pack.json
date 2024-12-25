@@ -1,0 +1,285 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Учебная практика\\Furniture_LebedevaS\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Furniture_LebedevaS.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Furniture_LebedevaS.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Учебная практика\\Furniture_LebedevaS\\wwwroot\\ImageUser\\serafima.xd@gmail.com-avatar.jpg",
+      "PackagePath": "staticwebassets\\ImageUser\\serafima.xd@gmail.com-avatar.jpg"
+    },
+    {
+      "Id": "C:\\Учебная практика\\Furniture_LebedevaS\\wwwroot\\css\\login_and_registration.css",
+      "PackagePath": "staticwebassets\\css\\login_and_registration.css"
+    },
+    {
+      "Id": "C:\\Учебная практика\\Furniture_LebedevaS\\wwwroot\\css\\media_style.css",
+      "PackagePath": "staticwebassets\\css\\media_style.css"
+    },
+    {
+      "Id": "C:\\Учебная практика\\Furniture_LebedevaS\\wwwroot\\css\\shared.css",
+      "PackagePath": "staticwebassets\\css\\shared.css"
+    },
+    {
+      "Id": "C:\\Учебная практика\\Furniture_LebedevaS\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Учебная практика\\Furniture_LebedevaS\\wwwroot\\images\\0f305d80d593a6941f7982cf23dfa59a.jpg",
+      "PackagePath": "staticwebassets\\images\\0f305d80d593a6941f7982cf23dfa59a.jpg"
+    },
+    {
+      "Id": "C:\\Учебная практика\\Furniture_LebedevaS\\wwwroot\\images\\10233dfdafff1d2c5823322e3f4ec2f0_1.jpg",
+      "PackagePath": "staticwebassets\\images\\10233dfdafff1d2c5823322e3f4ec2f0_1.jpg"
+    },
+    {
+      "Id": "C:\\Учебная практика\\Furniture_LebedevaS\\wwwroot\\images\\1500x1000_85.jpeg",
+      "PackagePath": "staticwebassets\\images\\1500x1000_85.jpeg"
+    },
+    {
+      "Id": "C:\\Учебная практика\\Furniture_LebedevaS\\wwwroot\\images\\1664857342_22-amiel-club-p-ikea-mebel-iz-rotanga-pinterest-22.jpg",
+      "PackagePath": "staticwebassets\\images\\1664857342_22-amiel-club-p-ikea-mebel-iz-rotanga-pinterest-22.jpg"
+    },
+    {
+      "Id": "C:\\Учебная практика\\Furniture_LebedevaS\\wwwroot\\images\\2b4261e64a1ea5ae36f55ea4cc9c2a31.jpg",
+      "PackagePath": "staticwebassets\\images\\2b4261e64a1ea5ae36f55ea4cc9c2a31.jpg"
+    },
+    {
+      "Id": "C:\\Учебная практика\\Furniture_LebedevaS\\wwwroot\\images\\45082ec915db352e96cf0a2ef536b117b947a58b.webp",
+      "PackagePath": "staticwebassets\\images\\45082ec915db352e96cf0a2ef536b117b947a58b.webp"
+    },
+    {
+      "Id": "C:\\Учебная практика\\Furniture_LebedevaS\\wwwroot\\images\\4ff6d4321fb91cd6a2959c3672a344b4.jpg",
+      "PackagePath": "staticwebassets\\images\\4ff6d4321fb91cd6a2959c3672a344b4.jpg"
+    },
+    {
+      "Id": "C:\\Учебная практика\\Furniture_LebedevaS\\wwwroot\\images\\5386cac8_dee4_47db_9bb5_ae63375e3a0b_4be47be3_6079_11ea_ba9a_000c299df5ea.resize1.jpeg",
+      "PackagePath": "staticwebassets\\images\\5386cac8_dee4_47db_9bb5_ae63375e3a0b_4be47be3_6079_11ea_ba9a_000c299df5ea.resize1.jpeg"
+    },
+    {
+      "Id": "C:\\Учебная практика\\Furniture_LebedevaS\\wwwroot\\images\\674d58486b49335b26ce452ef71a055a.jpg",
+      "PackagePath": "staticwebassets\\images\\674d58486b49335b26ce452ef71a055a.jpg"
+    },
+    {
+      "Id": "C:\\Учебная практика\\Furniture_LebedevaS\\wwwroot\\images\\6e8ad5d4a23905ef2146fcef09a06652.jpg",
+      "PackagePath": "staticwebassets\\images\\6e8ad5d4a23905ef2146fcef09a06652.jpg"
+    },
+    {
+      "Id": "C:\\Учебная практика\\Furniture_LebedevaS\\wwwroot\\images\\70_026653000-1649246398_2022-04-06_14-59-58.jpeg",
+      "PackagePath": "staticwebassets\\images\\70_026653000-1649246398_2022-04-06_14-59-58.jpeg"
+    },
+    {
+      "Id": "C:\\Учебная практика\\Furniture_LebedevaS\\wwwroot\\images\\7583cs-960.jpg",
+      "PackagePath": "staticwebassets\\images\\7583cs-960.jpg"
+    },
+    {
+      "Id": "C:\\Учебная практика\\Furniture_LebedevaS\\wwwroot\\images\\9556e610033b6d92d338d74335fc67f8.jpeg",
+      "PackagePath": "staticwebassets\\images\\9556e610033b6d92d338d74335fc67f8.jpeg"
+    },
+    {
+      "Id": "C:\\Учебная практика\\Furniture_LebedevaS\\wwwroot\\images\\9d78f54a1ba6587af2f762faa3714b6754fd4a9e_original.jpeg",
+      "PackagePath": "staticwebassets\\images\\9d78f54a1ba6587af2f762faa3714b6754fd4a9e_original.jpeg"
+    },
+    {
+      "Id": "C:\\Учебная практика\\Furniture_LebedevaS\\wwwroot\\images\\HTB1I1nqaiLrK1Rjy1zdq6ynnpXax.avif",
+      "PackagePath": "staticwebassets\\images\\HTB1I1nqaiLrK1Rjy1zdq6ynnpXax.avif"
+    },
+    {
+      "Id": "C:\\Учебная практика\\Furniture_LebedevaS\\wwwroot\\images\\Kreslo-sadovoe-Harmony-armchair_2.jpg",
+      "PackagePath": "staticwebassets\\images\\Kreslo-sadovoe-Harmony-armchair_2.jpg"
+    },
+    {
+      "Id": "C:\\Учебная практика\\Furniture_LebedevaS\\wwwroot\\images\\a6d4dff4105dafb9adef89199ebeee5b.jpg",
+      "PackagePath": "staticwebassets\\images\\a6d4dff4105dafb9adef89199ebeee5b.jpg"
+    },
+    {
+      "Id": "C:\\Учебная практика\\Furniture_LebedevaS\\wwwroot\\images\\aa1eba99ff3fba7ef673499e6ceb6840.jpg",
+      "PackagePath": "staticwebassets\\images\\aa1eba99ff3fba7ef673499e6ceb6840.jpg"
+    },
+    {
+      "Id": "C:\\Учебная практика\\Furniture_LebedevaS\\wwwroot\\images\\b3dcada2262f72824e2ef6996e2771cc.jpeg",
+      "PackagePath": "staticwebassets\\images\\b3dcada2262f72824e2ef6996e2771cc.jpeg"
+    },
+    {
+      "Id": "C:\\Учебная практика\\Furniture_LebedevaS\\wwwroot\\images\\c006b18a4d37865ffaa8d4a017279c98.jpg",
+      "PackagePath": "staticwebassets\\images\\c006b18a4d37865ffaa8d4a017279c98.jpg"
+    },
+    {
+      "Id": "C:\\Учебная практика\\Furniture_LebedevaS\\wwwroot\\images\\cc1d91c581b2827d7f921245e55b5d97.jpg",
+      "PackagePath": "staticwebassets\\images\\cc1d91c581b2827d7f921245e55b5d97.jpg"
+    },
+    {
+      "Id": "C:\\Учебная практика\\Furniture_LebedevaS\\wwwroot\\images\\cd1a8d9a7ac0fe8730806280b9ff4d28.jpeg",
+      "PackagePath": "staticwebassets\\images\\cd1a8d9a7ac0fe8730806280b9ff4d28.jpeg"
+    },
+    {
+      "Id": "C:\\Учебная практика\\Furniture_LebedevaS\\wwwroot\\images\\detskii_igrovoi_nabor_stol_i_2_stula_modern_tsvet_belii_27025ke_5bb32c332e174_7300_big.jpg",
+      "PackagePath": "staticwebassets\\images\\detskii_igrovoi_nabor_stol_i_2_stula_modern_tsvet_belii_27025ke_5bb32c332e174_7300_big.jpg"
+    },
+    {
+      "Id": "C:\\Учебная практика\\Furniture_LebedevaS\\wwwroot\\images\\ef3579452fce5413a50485b883d237e9.jpg",
+      "PackagePath": "staticwebassets\\images\\ef3579452fce5413a50485b883d237e9.jpg"
+    },
+    {
+      "Id": "C:\\Учебная практика\\Furniture_LebedevaS\\wwwroot\\images\\efb8f748518885849823cfad493d2923.jpg",
+      "PackagePath": "staticwebassets\\images\\efb8f748518885849823cfad493d2923.jpg"
+    },
+    {
+      "Id": "C:\\Учебная практика\\Furniture_LebedevaS\\wwwroot\\images\\f071f8da74ae80b7ef97e329410e2fb4.jpg",
+      "PackagePath": "staticwebassets\\images\\f071f8da74ae80b7ef97e329410e2fb4.jpg"
+    },
+    {
+      "Id": "C:\\Учебная практика\\Furniture_LebedevaS\\wwwroot\\images\\f1a5accfb39f645315f0f41af6fd05f0.jpg",
+      "PackagePath": "staticwebassets\\images\\f1a5accfb39f645315f0f41af6fd05f0.jpg"
+    },
+    {
+      "Id": "C:\\Учебная практика\\Furniture_LebedevaS\\wwwroot\\images\\f2075472d44359a494cb2d4756a76cb9.jpg",
+      "PackagePath": "staticwebassets\\images\\f2075472d44359a494cb2d4756a76cb9.jpg"
+    },
+    {
+      "Id": "C:\\Учебная практика\\Furniture_LebedevaS\\wwwroot\\images\\i (1).webp",
+      "PackagePath": "staticwebassets\\images\\i (1).webp"
+    },
+    {
+      "Id": "C:\\Учебная практика\\Furniture_LebedevaS\\wwwroot\\images\\i (10).webp",
+      "PackagePath": "staticwebassets\\images\\i (10).webp"
+    },
+    {
+      "Id": "C:\\Учебная практика\\Furniture_LebedevaS\\wwwroot\\images\\i (11).webp",
+      "PackagePath": "staticwebassets\\images\\i (11).webp"
+    },
+    {
+      "Id": "C:\\Учебная практика\\Furniture_LebedevaS\\wwwroot\\images\\i (12).webp",
+      "PackagePath": "staticwebassets\\images\\i (12).webp"
+    },
+    {
+      "Id": "C:\\Учебная практика\\Furniture_LebedevaS\\wwwroot\\images\\i (2).webp",
+      "PackagePath": "staticwebassets\\images\\i (2).webp"
+    },
+    {
+      "Id": "C:\\Учебная практика\\Furniture_LebedevaS\\wwwroot\\images\\i (3).webp",
+      "PackagePath": "staticwebassets\\images\\i (3).webp"
+    },
+    {
+      "Id": "C:\\Учебная практика\\Furniture_LebedevaS\\wwwroot\\images\\i (4).webp",
+      "PackagePath": "staticwebassets\\images\\i (4).webp"
+    },
+    {
+      "Id": "C:\\Учебная практика\\Furniture_LebedevaS\\wwwroot\\images\\i (5).webp",
+      "PackagePath": "staticwebassets\\images\\i (5).webp"
+    },
+    {
+      "Id": "C:\\Учебная практика\\Furniture_LebedevaS\\wwwroot\\images\\i (6).webp",
+      "PackagePath": "staticwebassets\\images\\i (6).webp"
+    },
+    {
+      "Id": "C:\\Учебная практика\\Furniture_LebedevaS\\wwwroot\\images\\i (7).webp",
+      "PackagePath": "staticwebassets\\images\\i (7).webp"
+    },
+    {
+      "Id": "C:\\Учебная практика\\Furniture_LebedevaS\\wwwroot\\images\\i (8).webp",
+      "PackagePath": "staticwebassets\\images\\i (8).webp"
+    },
+    {
+      "Id": "C:\\Учебная практика\\Furniture_LebedevaS\\wwwroot\\images\\i (9).webp",
+      "PackagePath": "staticwebassets\\images\\i (9).webp"
+    },
+    {
+      "Id": "C:\\Учебная практика\\Furniture_LebedevaS\\wwwroot\\images\\i.webp",
+      "PackagePath": "staticwebassets\\images\\i.webp"
+    },
+    {
+      "Id": "C:\\Учебная практика\\Furniture_LebedevaS\\wwwroot\\images\\kreslo_tutsi_myagkoe_mishanya_1742881_1.jpg",
+      "PackagePath": "staticwebassets\\images\\kreslo_tutsi_myagkoe_mishanya_1742881_1.jpg"
+    },
+    {
+      "Id": "C:\\Учебная практика\\Furniture_LebedevaS\\wwwroot\\images\\lozko-filip-dzieciece-160x80-dla-dzieci-materac-marka-bms-group.webp",
+      "PackagePath": "staticwebassets\\images\\lozko-filip-dzieciece-160x80-dla-dzieci-materac-marka-bms-group.webp"
+    },
+    {
+      "Id": "C:\\Учебная практика\\Furniture_LebedevaS\\wwwroot\\images\\mebel-dlya-personala-locker-plus_1.jpg",
+      "PackagePath": "staticwebassets\\images\\mebel-dlya-personala-locker-plus_1.jpg"
+    },
+    {
+      "Id": "C:\\Учебная практика\\Furniture_LebedevaS\\wwwroot\\images\\milano1.jpg",
+      "PackagePath": "staticwebassets\\images\\milano1.jpg"
+    },
+    {
+      "Id": "C:\\Учебная практика\\Furniture_LebedevaS\\wwwroot\\images\\office_mariani_kefa_2.jpg",
+      "PackagePath": "staticwebassets\\images\\office_mariani_kefa_2.jpg"
+    },
+    {
+      "Id": "C:\\Учебная практика\\Furniture_LebedevaS\\wwwroot\\images\\ofisnaya-tumba-nika-tb---10(1).jpg",
+      "PackagePath": "staticwebassets\\images\\ofisnaya-tumba-nika-tb---10(1).jpg"
+    },
+    {
+      "Id": "C:\\Учебная практика\\Furniture_LebedevaS\\wwwroot\\images\\raspashnoy-shkaf-bolsena.jpg",
+      "PackagePath": "staticwebassets\\images\\raspashnoy-shkaf-bolsena.jpg"
+    },
+    {
+      "Id": "C:\\Учебная практика\\Furniture_LebedevaS\\wwwroot\\images\\s1200.jpg",
+      "PackagePath": "staticwebassets\\images\\s1200.jpg"
+    },
+    {
+      "Id": "C:\\Учебная практика\\Furniture_LebedevaS\\wwwroot\\images\\sadovie-kacheli-z003.jpg",
+      "PackagePath": "staticwebassets\\images\\sadovie-kacheli-z003.jpg"
+    },
+    {
+      "Id": "C:\\Учебная практика\\Furniture_LebedevaS\\wwwroot\\images\\scale_1200.jpg",
+      "PackagePath": "staticwebassets\\images\\scale_1200.jpg"
+    },
+    {
+      "Id": "C:\\Учебная практика\\Furniture_LebedevaS\\wwwroot\\images\\star.png",
+      "PackagePath": "staticwebassets\\images\\star.png"
+    },
+    {
+      "Id": "C:\\Учебная практика\\Furniture_LebedevaS\\wwwroot\\js\\Search_script.js",
+      "PackagePath": "staticwebassets\\js\\Search_script.js"
+    },
+    {
+      "Id": "C:\\Учебная практика\\Furniture_LebedevaS\\wwwroot\\js\\home_script.js",
+      "PackagePath": "staticwebassets\\js\\home_script.js"
+    },
+    {
+      "Id": "C:\\Учебная практика\\Furniture_LebedevaS\\wwwroot\\js\\login_and_registration_script.js",
+      "PackagePath": "staticwebassets\\js\\login_and_registration_script.js"
+    },
+    {
+      "Id": "C:\\Учебная практика\\Furniture_LebedevaS\\wwwroot\\js\\shared_script.js",
+      "PackagePath": "staticwebassets\\js\\shared_script.js"
+    },
+    {
+      "Id": "C:\\Учебная практика\\Furniture_LebedevaS\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Учебная практика\\Furniture_LebedevaS\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Учебная практика\\Furniture_LebedevaS\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Учебная практика\\Furniture_LebedevaS\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Furniture_LebedevaS.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Furniture_LebedevaS.props",
+      "PackagePath": "build\\Furniture_LebedevaS.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Furniture_LebedevaS.props",
+      "PackagePath": "buildMultiTargeting\\Furniture_LebedevaS.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Furniture_LebedevaS.props",
+      "PackagePath": "buildTransitive\\Furniture_LebedevaS.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

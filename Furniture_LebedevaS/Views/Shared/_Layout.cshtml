@@ -1,0 +1,125 @@
+﻿    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>@ViewData["Title"] - Furniture_LebedevaS</title>
+        <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+        <link rel="stylesheet" href="~/css/shared.css" asp-append-version="true" />
+        <link rel="stylesheet" href="~/css/login_and_registration.css" asp-append-version="true" />
+        <link rel="stylesheet" href="~/css/media_style.css" asp-append-version="true" />
+        <link rel="stylesheet" href="~/Furniture_LebedevaS.shared.css" asp-append-version="true" />
+    </head>
+    <body>
+        <header id="header-top">
+            <div id="hamburger" class="hamburger">&#9776;</div>
+            <div class="auth-buttons">
+
+                @if(User.Identity.IsAuthenticated)
+                {
+                <div class="user-container">
+                    <button class="auth-button" type="button" onclick="window.location.href='@Url.Action("Logout", "Home")'">Выйти</button>
+                    <div class="user-icon-container">
+                        <img src="https://www.treasurebox.co.nz/pub/media/wysiwyg/cmspage/team3.png" alt="User Icon" class="user-icon" id="user-icon" />
+                        <div class="user-info-popup" id="user-info-popup">
+                            <p>Имя: @User.Identity.Name</p>
+                            <p>Email: @User.FindFirst("email")?.Value</p>
+                        </div>
+                    </div>
+                </div>
+                 <div class="basket-container" id="user-basket">
+            <div class="basket">
+                <img src="https://img2.freepng.ru/20180509/yfw/kisspng-online-shopping-retail-handbag-5af33f405ed839.1661073615258908803885.jpg" 
+                     alt="Basket Icon" class="basket-icon" />
+                <h3>Ваша корзина</h3>
+                <div id="basket-items"></div>
+            </div>
+        </div>
+                }
+                @if (!User.Identity.IsAuthenticated)
+                {
+                    <button id="click-to-hide" class="auth-button">Войти</button>
+                }
+            </div>
+
+        <div class="modal" id="user-modal">
+            <div class="modal-content">
+                <img src="https://www.treasurebox.co.nz/pub/media/wysiwyg/cmspage/team3.png" alt="User Icon" class="user-iconn" id="user-icon" />
+                <h2>Информация о пользователе</h2>
+                <p id="user-name">Ф.И.О.: Лебедева Серафима Игоревна</p>
+                <p id="user-date">Дата рождения: 07.01.2007</p>
+                <p id="user-address">Город: Слободзея</p>
+                <p id="user-email">Email: serafima.xd@gmail.com</p>
+            </div>
+        </div>
+            
+        <div class="search">
+            <div class="input">
+                <input type="text" id="mySearch" placeholder="Поиск">
+            </div>
+            <div class="icon"></div>
+            <span class="=clear"></span>
+        </div>
+      
+            <div class="header-content">
+                <div class="img-header">
+                    
+                    <div class="site-title">МИР МЕБЕЛИ</div>
+                </div>
+                <nav class="menu">
+                    <ul>
+                    <li><a href="#">Главная</a></li>
+                    <li><a href="#about">О нас</a></li>
+                    <li><a href="/Product/ListOfProducts">Услуги</a></li>
+                    <li><a href="#contacts">Контакты</a></li>
+                    <li><a href="#email">Почта</a></li>
+                    </ul>
+                </nav>
+            </div>
+        </header>
+
+        @await Html.PartialAsync("_LoginRegistrationPartial")
+        @await Html.PartialAsync("_ConfirmEmailPartial")
+
+        <div class="menu-image">
+        <img src="https://i.pinimg.com/originals/ef/b7/fd/efb7fd89eb3fdbbd1baaeb468159400c.jpg" alt="Изображение">
+        </div>
+
+        <div id="side-menu" class="side-menu">
+            <div>
+                <ul>
+                    <li><a href="#home">Главная</a></li>
+                    <li><a href="#about">О нас</a></li>
+                    <li><a href="#services">Услуги</a></li>
+                    <li><a href="#countries">Страны</a></li>
+                    <li><a href="#contacts">Контакты</a></li>
+                <li><a href="#" id="hamburger-login">Вход</a></li>
+            </ul>
+            </div>
+        </div>
+        <div id="menu-overlay"></div>
+
+        <div class="container">
+
+            @RenderBody()
+        </div>
+        <footer>
+            <div class="footer-left">
+                <div class="lago">Мир мебели</div>
+                <p>
+                    мы знаем, как сделать ваш дом стильным и функциональным. В нашем ассортименте вы найдете мебель, которая отвечает современным требованиям качества и дизайна.
+                </p>
+                <div class="footer-TravelAgency">
+                    &copy; 2024 - Furniture_LebedevaS
+                </div>
+            </div>
+        </footer>
+
+  
+        <script src="~/js/shared_script.js" asp-append-version="true"></script>
+        <script src="~/js/home_script.js" asp-append-version="true"></script>
+        <script src="~/js/login_and_registration_script.js" defer asp-append-version="true"></script>
+        <script src="~/js/Search_script.js" asp-append-version="true"></script>
+    </body>
+    </html>
+

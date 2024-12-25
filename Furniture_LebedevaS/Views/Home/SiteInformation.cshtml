@@ -1,0 +1,155 @@
+﻿@model Furniture_LebedevaS.Domain.ViewModels.Categories.CategoryViewModel
+
+<section id="about">
+<div id="main-section">
+    <div class="about-section">
+        <h2 class="info-sections">О нас</h2>
+        <p>
+            Добро пожаловать в "Мир Мебели" — ваш надежный партнер в создании уютного и стильного интерьера!
+            Мы предлагаем широкий ассортимент мебели для дома и офиса, который отвечает самым высоким стандартам
+            качества и дизайна.
+        </p>
+        <p>
+            В "Мире Мебели" каждый найдет то, что ищет: от удобных диванов и кресел до функциональных шкафов и
+            столов. Мы предлагаем мебель, которая будет служить вам долго, а также стильные аксессуары, которые
+            помогут завершить образ вашего интерьера.
+        </p>
+        <p>
+            Наша команда профессионалов всегда готова помочь вам выбрать идеальные решения, которые соответствуют
+            вашим пожеланиям и бюджету. Мы заботимся о комфорте и удовлетворении наших клиентов, предоставляя не
+            только качественную продукцию, но и высокий уровень сервиса, начиная от консультаций и выбора товара
+            до доставки и сборки.
+        </p>
+        <p><strong>Мир Мебели — это не просто магазин, это место, где сбываются мечты о идеальном доме!</strong></p>
+            <h2 class="info-sections">В чем наша уникальность?</h2>
+            <div class="unique-features">
+                <div class="feature-item">
+                <img src="https://sun9-39.userapi.com/impf/c622228/v622228614/c908/8KVeNzgCLaA.jpg?size=200x204&quality=96&sign=07afbbb43835e0f905872c6cf59da39f&type=album" alt="Feature 1">
+                    <p>Бесплатный выезд на замеры и создание проекта</p>
+                </div>
+                <div class="feature-item">
+                <img src="https://mebel-malachite.ru/assets/images/wcateg/procent.png" alt="Feature 2">
+                    <p>Расчеты в рассрочку</p>
+                </div>
+                <div class="feature-item">
+                <img src="https://forklift-master.ru/ssl/u/97/f130c8c8eb11e5ba1d985e8cbd4833/-/clock-46327_1280.png" alt="Feature 3">
+                    <p>Изготовление мебели точно в срок</p>
+                </div>
+                <div class="feature-item">
+                <img src="https://gas-kvas.com/grafic/uploads/posts/2024-01/gas-kvas-com-p-znachok-palets-vverkh-na-prozrachnom-fone-32.png" alt="Feature 4">
+                    <p>Современные материалы</p>
+                </div>
+            </div>
+    </div>
+</div>
+</section>
+
+@if (Model != null)
+{
+    <section id="services">
+        <div class="container-section">
+            <h2 class="info-sections">Области нашего обслуживания</h2>
+            <div class="slider-container">
+
+                <div class="card-container">
+                    @foreach (var category in Model.Categories)
+                    {
+                        
+                            <div class="card">
+                                <img src="@category.PathImage" alt="Card 1">
+                                <h3>@category.Name</h3>
+                                <p>
+                                    @category.Description
+                                </p>
+                            <a href="/Product/ListOfProducts/@category.Id?categoryName=@category.Name">
+                                <div class="info-container">
+                                    <div class="stock-status">Товары в наличии для заказа!</div>
+                                    <div class="stock-statusa"> Доставка по странам:</div>
+                                  
+                                    <div class="availability-info">
+                                        <a href="https://avatars.mds.yandex.net/i?id=0b1b67ffa03900e531501f2983fe213d_l-5504462-images-thumbs&n=13"
+                                           target="_blank"
+                                           class="country-icon"
+                                           title="Россия">
+                                            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/1200px-Flag_of_Russia.svg.png" alt="Россия" />
+                                        </a>
+                                        <a href="https://avatars.dzeninfra.ru/get-zen_doc/5262161/pub_62d7b9f7dd8b0050b80e7cb9_62d7bd7691357a27ff72a8cc/scale_1200"
+                                           target="_blank"
+                                           class="country-icon"
+                                           title="Украина">
+                                            <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg" alt="Украина" />
+                                        </a>
+                                        <a href="https://msk.kprf.ru/wp-content/uploads/2017/04/Kazahstan-1-1024x614.jpg"
+                                           target="_blank"
+                                           class="country-icon"
+                                           title="Казахстан">
+                                            <img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Flag_of_Kazakhstan.svg" alt="Казахстан" />
+                                        </a>
+                                    </div>
+                                
+                                </div>
+                                </a>
+                            </div>
+                 
+                    }
+
+                </div>
+            </div>
+
+        </div>
+    </section>
+}
+
+<section id="contacts">
+<div id="contacts-tab" class="tab-content">
+    <div class="container-section">
+        <h2 class="info-sections">Контакты</h2>
+        <div class="container-row">
+            <div class="row-item">
+                <img src="https://static.tildacdn.com/tild6130-3364-4032-b837-656364313861/Tilda_Icons_26sn_mai.png" alt="Email" />
+                <div class="contact-text">
+                    <h3>Email</h3>
+                    <p>TTIiP@@mail.ru</p>
+                </div>
+            </div>
+            <div class="row-item">
+                <img src="https://cdn1.ozone.ru/s3/multimedia-1-n/6908895311.jpg" alt="Phone" />
+                <div class="contact-text">
+                    <h3>Телефон</h3>
+                    <p>+ (373) 777-77-777</p>
+                </div>
+            </div>
+            <div class="row-item">
+                <img src="https://ledoks.ru/image/catalog/phones_icons/158-1580000_location-location-icon-file-png-transparent-png.png" alt="Address" />
+                <div class="contact-text">
+                    <h3>Адрес</h3>
+                    <p>ТТИиП</p>
+                </div>
+            </div>
+        </div>
+        <h2 class="info-sections">Мы находимся</h2>
+        <div class="map">
+            <script type="text/javascript"
+                    charset="utf-8"
+                    async
+                    src="https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3A2dd2641153eefc74547bd2d50e5f06705ad81a487871c745d8d4ea7955e981a8&amp;width=100%25&amp;height=400&amp;lang=ru_RU&amp;scroll=true">
+            </script>
+        </div>
+    </div>
+</div>
+</section>
+<section id="email">
+<div class="container-section">
+    <h2 class="info-sections">Напишите нам на почту</h2>
+    <div class="block-message">
+        <div class="message-text">
+            <label for="message">Сообщение:</label>
+            <textarea id="message" class="text" placeholder="Напишите ваше сообщение..."></textarea>
+        </div>
+        <div class="message-button">
+            <button class="button" type="submit">Отправить</button>
+        </div>
+    </div>
+</div>
+</section>
+
